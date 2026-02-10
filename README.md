@@ -1,13 +1,11 @@
-# Semantic HTML & CSS
+# HTML & CSS Daily Practice
 
-This project focuses on building a clean webpage using
-semantic HTML elements with basic external CSS styling.
+This repository contains my daily HTML and CSS practice projects.
 
-## Concepts Used
-- Semantic HTML structure
-- External CSS
-- Flexbox for header layout
+## Projects
+- Semantic HTML & CSS  
+- Responsive Navbar using Flexbox  
 
 ## Tech Stack
-- HTML5
-- CSS3
+- HTML5  
+- CSS3  
